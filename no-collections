@@ -1,0 +1,354 @@
+{
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "requiredAddons" : [
+    "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+    "https:\/\/btttr.cc\/TY8xDoMwDEXv4jm9QC7QvepWdbDATZFCTG1HFULcHSWQlu37vW9LXqBDw8hBwT8gopHaZQTXooID4x7nCvf0ZwgOOh6HFKo-YvFHLAUTSn2r_IZSmnjKEaWKlvfjEzwdjGQIflmLVCMBv1TlAbNx2REOQqrgTTIdx-9YftnBJ2McbD4jffP3SknoDG5oQwqNYKAGXhiV1nUD\/manifest.json"
+  ],
+  "widgets" : [
+    {
+      "dataSource" : {
+        "kind" : "localWatchlist",
+        "payload" : {
+          "filter" : "all"
+        }
+      },
+      "id" : "localWatchlist.A5C98FA8-EA47-4270-ACB7-CB50A107E6CB",
+      "title" : "Watchlist",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::tmdb.top",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.3543FD5D-6D44-452D-8D86-B738D2D1198F",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Popular Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::tmdb.top",
+          "type" : "series"
+        }
+      },
+      "id" : "catalog.E2C4FDF7-C696-4F0A-BABB-168409F39602",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Popular Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::tmdb.trending",
+          "type" : "movie"
+        }
+      },
+      "id" : "catalog.03032A4E-3910-4B30-BD1E-8BC5C4A8E0C1",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Trending Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::tmdb.trending",
+          "type" : "series"
+        }
+      },
+      "id" : "starter.numbered.tv.weekly",
+      "limit" : 10,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "trending.week",
+      "title" : "Trending Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/TY8xDoMwDEXv4jm9QC7QvepWdbDATZFCTG1HFULcHSWQlu37vW9LXqBDw8hBwT8gopHaZQTXooID4x7nCvf0ZwgOOh6HFKo-YvFHLAUTSn2r_IZSmnjKEaWKlvfjEzwdjGQIflmLVCMBv1TlAbNx2REOQqrgTTIdx-9YftnBJ2McbD4jffP3SknoDG5oQwqNYKAGXhiV1nUD\/manifest.json",
+          "catalogId" : "movie::tmdb-latest",
+          "type" : "movie"
+        }
+      },
+      "id" : "starter.new.digital",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : true,
+          "ratings" : true
+        },
+        "cardStyle" : "large"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Recently Released",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::tmdb.top_rated",
+          "type" : "series"
+        }
+      },
+      "id" : "starter.rated.tv",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : true,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Highly Rated TV",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::tmdb.discover.movie.adventure_fantasy_movies.mrzeaubq",
+          "type" : "movie"
+        }
+      },
+      "id" : "starter.row.adventure.fantasy",
+      "limit" : 20,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : true,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Adventure & Fantasy Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::tmdb.discover.movie.science_fiction_movies.mrzefe1o",
+          "type" : "movie"
+        }
+      },
+      "id" : "discover.A284D88C-BA3A-4097-81D5-E2EEFE710355",
+      "limit" : 0,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Science Fiction Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::tmdb.discover.series.sci_fi_fantasy_series.mrzeipa2",
+          "type" : "series"
+        }
+      },
+      "id" : "discover.14ACE474-EA35-4AC9-BBD3-F40BCE42A041",
+      "limit" : 0,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Sci-Fi & Fantasy Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::tmdb.discover.movie.history_war_movies.mrzehdgw",
+          "type" : "movie"
+        }
+      },
+      "id" : "discover.2B23375A-68BB-4D81-B493-1475911BCBA1",
+      "limit" : 0,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "History and War Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::tmdb.discover.series.war_politics_series.mrzejg6s",
+          "type" : "series"
+        }
+      },
+      "id" : "discover.1D80C7F6-51E4-4C21-A80E-0A779208EEC9",
+      "limit" : 0,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "War & Politics Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::tmdb.discover.movie.thriller_crime_movies.mrzekdi6",
+          "type" : "movie"
+        }
+      },
+      "id" : "discover.4E06F405-ABF4-49A4-A7C8-00FA067528EC",
+      "limit" : 0,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Thriller & Crime Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::tmdb.discover.series.crime_drama_series.mrzel1k8",
+          "type" : "series"
+        }
+      },
+      "id" : "discover.3D3A5803-5AB5-4A2F-B3C7-A92BFEC5AD96",
+      "limit" : 0,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Crime & Drama Series",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/btttr.cc\/TY8xDoMwDEXv4jm9QC7QvepWdbDATZFCTG1HFULcHSWQlu37vW9LXqBDw8hBwT8gopHaZQTXooID4x7nCvf0ZwgOOh6HFKo-YvFHLAUTSn2r_IZSmnjKEaWKlvfjEzwdjGQIflmLVCMBv1TlAbNx2REOQqrgTTIdx-9YftnBJ2McbD4jffP3SknoDG5oQwqNYKAGXhiV1nUD\/manifest.json",
+          "catalogId" : "movie::tmdb-coming",
+          "type" : "movie"
+        }
+      },
+      "id" : "discover.19290B4A-ADBB-4EF2-B2B1-1EF5AEF68C89",
+      "limit" : 0,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Upcoming Movies",
+      "type" : "hero.banner"
+    }
+  ]
+}
