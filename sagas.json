@@ -1,0 +1,202 @@
+[
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/harrypotter.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "all::trakt.list.11210974",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "all::trakt.list.11210974",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "harrypotter",
+    "layout" : "Wide",
+    "name" : "Harry Potter"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/jurassicpark.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "all::trakt.list.11214030",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "all::trakt.list.11214030",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "jurassicpark",
+    "layout" : "Wide",
+    "name" : "Jurassic Park"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/thelordoftherings.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "all::trakt.list.4025851",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "all::trakt.list.4025851",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "thelordoftherings",
+    "layout" : "Wide",
+    "name" : "The Lord of the Rings"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/marvel.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "all::trakt.list.1248149",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "all::trakt.list.1248149",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "marvel",
+    "layout" : "Wide",
+    "name" : "Marvel"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/dcuniverse.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "all::trakt.list.1257909",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "all::trakt.list.1257909",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "dcuniverse",
+    "layout" : "Wide",
+    "name" : "DC Universe"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/startrek.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "all::trakt.list.967660",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "all::trakt.list.967660",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "startrek",
+    "layout" : "Wide",
+    "name" : "Star Trek"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/starwars.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "all::trakt.list.2233867",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "all::trakt.list.2233867",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "starwars",
+    "layout" : "Wide",
+    "name" : "Star Wars"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/eddddamr\/fusion-folder\/refs\/heads\/main\/transformers.png",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "all::trakt.list.11422083",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "all::trakt.list.11422083",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "transformers",
+    "layout" : "Wide",
+    "name" : "Transformers"
+  }
+]
