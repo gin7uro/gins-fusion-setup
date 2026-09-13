@@ -1,0 +1,18 @@
+{
+  "addons" : [
+    "https:\/\/94c8cb9f702d-tmdb-addon.baby-beamup.club\/manifest.json",
+    "https:\/\/opensubtitles-v3.strem.io\/manifest.json",
+    "https:\/\/opensubtitles.strem.io\/stremio\/v1",
+    "https:\/\/stremio.torbox.app\/6e1bacd4-ee1b-4c7e-b94c-69d20f7b56e4\/manifest.json",
+    "https:\/\/7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club\/bmZ4LGRucCxhbXAsYXRwLGhibSxjcnUsdmlrLHNnbzo6REU6MTc4NDczMjQ4MDUwMTowOjA6REU%3D\/manifest.json",
+    "https:\/\/aiostreams.elfhosted.com\/stremio\/295a84a0-b5b0-433d-b313-070e164fcc52\/eyJpIjoiaFhIMXZlemxrWXdFUG43UEZ3K25XZz09IiwiZSI6InNONFRZMUpLQW1ua1B4UlZUMjM0cm1mbW9UeVBZeDl2M1BrTE13a3dGbzA9IiwidCI6ImEifQ\/manifest.json",
+    "https:\/\/mediafusion.elfhosted.com\/U-9d4d0dd9-2c9a-469e-bc52-5e3b45b17f4b\/manifest.json",
+    "https:\/\/stremthru.13377001.xyz\/stremio\/torz\/eyJpbmRleGVycyI6bnVsbCwic3RvcmVzIjpbeyJjIjoidGIiLCJ0IjoiNmUxYmFjZDQtZWUxYi00YzdlLWI5NGMtNjlkMjBmN2I1NmU0In1dLCJjYWNoZWQiOnRydWUsInNvcnQiOiJyZXNvbHV0aW9uLCBxdWFsaXR5LCBzaXplLCBoZHIifQ==\/manifest.json",
+    "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+    "https:\/\/anime-kitsu.strem.fun\/manifest.json",
+    "https:\/\/torrentio.strem.fun\/qualityfilter=cam,unknown,scr,480p,720p,threed%7Ctorbox=6e1bacd4-ee1b-4c7e-b94c-69d20f7b56e4\/manifest.json",
+    "https:\/\/btttr.cc\/TY8xDoMwDEXv4jm9QC7QvepWdbDATZFCTG1HFULcHSWQlu37vW9LXqBDw8hBwT8gopHaZQTXooID4x7nCvf0ZwgOOh6HFKo-YvFHLAUTSn2r_IZSmnjKEaWKlvfjEzwdjGQIflmLVCMBv1TlAbNx2REOQqrgTTIdx-9YftnBJ2McbD4jffP3SknoDG5oQwqNYKAGXhiV1nUD\/manifest.json"
+  ],
+  "exportType" : "fusionAddons",
+  "exportVersion" : 1
+}
