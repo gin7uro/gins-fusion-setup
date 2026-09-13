@@ -1,0 +1,233 @@
+[
+  {
+    "backgroundImageURL" : "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd8%2F47%2F9a%2Fd8479ab66758648c5b2a403249a65d57.jpg&f=1&nofb=1&ipt=35a4691eb7f51de990e19e31887509d96d97237ca3e72259fb6a2463a64c760d",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.nfx",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.nfx",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::custom.pw_ers_netflix_catalog.series.nfx",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "FA5578B1-CBCF-4B12-9BCE-0B542BB73733",
+    "layout" : "Wide",
+    "name" : "Netflix"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fwww.ais.th%2Fcontent%2Fais%2Fth%2Fth_th%2Fconsumers%2Fentertainment%2Fstreaming-app%2Fdisney%2F_jcr_content%2Froot%2Fcontainer_1816311984%2Faiscontainer%2Fcolumncontrol_copy_c%2Fcontent1%2Fimage.coreimg.jpeg%2F1742179269407%2Flogo-disney-new-plus-hotstar-with-bg.jpeg&f=1&nofb=1&ipt=9b9632058238b595c93d06a3152cbdd3b811bb5d76b50efb46769c54e2c3154f",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.dnp",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.dnp",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::custom.pw_ers_netflix_catalog.series.dnp",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "3FD6E980-8F37-4FB2-8965-679F6AF82480",
+    "layout" : "Wide",
+    "name" : "Disney+"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fchattogram-bangladesh-may-18-2023-600nw-2304763275.jpg&f=1&nofb=1&ipt=75ae76e402aef12bb9fc5a1cda1a7a110207ab7ca022a785a23f6e16be8d3579",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.amp",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.amp",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::custom.pw_ers_netflix_catalog.series.amp",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "26958169-004C-4E05-9780-C17CF583CC99",
+    "layout" : "Wide",
+    "name" : "Prime Video"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fwww.moviemeter.nl%2Fv2%2Fimages%2Fon_demand%2Fh_280%2Fappletvplus.png&f=1&nofb=1&ipt=3e1b3062b00ac7fc1303e0eab9b2ab5f356afc43f742fce7e1c855e0f843db1f",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.atp",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.atp",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::custom.pw_ers_netflix_catalog.series.atp",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "DC423C69-593A-4BB5-B5F3-AB879B5DE9E4",
+    "layout" : "Wide",
+    "name" : "Apple TV+"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fimages.hdqwalls.com%2Fwallpapers%2Fhbo-max-logo-fp.jpg&f=1&nofb=1&ipt=69c335fbc6b0bd9e8045a7277ecc4f4dddfffef9af8488c5cf764863fa09fbabhttps:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fimages.hdqwalls.com%2Fwallpapers%2Fhbo-max-logo-fp.jpg&f=1&nofb=1&ipt=69c335fbc6b0bd9e8045a7277ecc4f4dddfffef9af8488c5cf764863fa09fbab",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.hbm",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.hbm",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::custom.pw_ers_netflix_catalog.series.hbm",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "3652459F-FF5C-4E30-B41F-2F6076A0447F",
+    "layout" : "Wide",
+    "name" : "HBO Max"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fandroidguias.com%2Fwp-content%2Fuploads%2F2021%2F06%2Fcrunchyroll.png&f=1&nofb=1&ipt=5c6e843652a4b01b539deb0d49d131a09c625384adcc59136da3fc974ad8fa72",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.cru",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.cru",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::custom.pw_ers_netflix_catalog.series.cru",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "D439EA5A-E00F-47E5-A3BC-CDD4979D8583",
+    "layout" : "Wide",
+    "name" : "Crunchyroll"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/external-content.duckduckgo.com\/iu\/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F81eaJV0lgsL.png&f=1&nofb=1&ipt=a48dede64a009d136e0b0804aed997e6ef255575455dd5a6a5ad78e77f738452",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+        "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.vik",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "movie::custom.pw_ers_netflix_catalog.movie.vik",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/9e515f97-9023-4515-8c74-4ddb13a0d329\/manifest.json",
+          "catalogId" : "series::custom.pw_ers_netflix_catalog.series.vik",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "8DEEC6FB-CEB8-4C46-B4BC-A7D87FA24B59",
+    "layout" : "Wide",
+    "name" : "Rakuten Viki"
+  }
+]
